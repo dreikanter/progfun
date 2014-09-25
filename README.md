@@ -1,4 +1,3 @@
-progfun
-=======
+# Functional Programming Principles in Scala by Martin Odersky
 
-Functional Programming Principles in Scala
+My solutions for Coursera's FP course assignment.
